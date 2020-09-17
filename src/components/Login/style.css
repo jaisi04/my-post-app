@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+  flex-flow: column;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: azure;
+}
+
+label {
+  margin: 8px 0 0 8px;
+}
+
+input {
+  width: 320px;
+  padding: 4px;
+  margin: 8px;
+}
+
+button {
+  padding: 8px 0;
+  margin: 8px 0 0 0;
+  width: 320px;
+}
